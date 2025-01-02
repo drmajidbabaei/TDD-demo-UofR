@@ -1,4 +1,4 @@
-# TDD-demo-UofR
+# TDD-demo
 
 ## Project Overview
 
